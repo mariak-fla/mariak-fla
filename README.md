@@ -9,7 +9,7 @@
 - Improving my JavaScript skills;
 - Learning React.js & React Native;
 - Growing as a developer and designer! 🌱
-
+<br><br><br>
 ### Languages
 - PT/BR: Native ★★★★★
 - EN/US: Fluent ★★★★★
