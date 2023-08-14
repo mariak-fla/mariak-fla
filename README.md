@@ -1,5 +1,4 @@
-<div style="display: flex;">
-<div> 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px">
 <h2>About me ✨</h2>
 <ul>
   <li>The first time I became interested in HTML and CSS was designing simple websites as a kid;</li>
@@ -29,7 +28,3 @@
   <a href="mailto:mariak.fla@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mariak.fla@gmail.com" /></a></a>
 </p>
-</div>
-
-<div><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px"></div>
-</div>
