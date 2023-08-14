@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px">
 <h2>About me ✨</h2>
 <ul>
   <li>The first time I became interested in HTML and CSS was designing simple websites as a kid;</li>
