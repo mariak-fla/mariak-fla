@@ -1,4 +1,4 @@
-<div align="right" display="flex" align-items="center"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px"></div>
+<div align="right"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px"></div>
 
 <p align="left"> 
 <h2>About me ✨</h2>
@@ -11,7 +11,7 @@
 </ul>
 </p>
 
-<p align="left">
+<p>
 <h3>Currently working on... 💪</h3>
 <ul>
   <li>Improving my JavaScript skills;</li>
@@ -20,14 +20,14 @@
 </ul>
 </p>
 
-<p align="left">
+<p>
   <h3>Certifications 🏅</h3>
   <ul>
     <li><a href="https://www.coursera.org/account/accomplishments/certificate/K9MS9UMFVCET">UX/UI: Fundamentos para o design de interface</a></li>
   </ul>
 </p>
 
-<p align="left">
+<p>
 <h3>Contact 💌</h3>
 </p>
 
