@@ -3,7 +3,7 @@
   <li>The first time I became interested in HTML and CSS was designing simple websites as a kid;</li>
   <li>In 2021, I obtained my Bachelor's degree in Graphic Design;</li>
   <li>Additionally, I completed a <a href="https://www.coursera.org/account/accomplishments/certificate/K9MS9UMFVCET">three month course on UX/UI</a> by the end of 2020;</li>
-  <li>I began studying HTML and CSS seriously in 2022, through <a href="rocketseat.com.br">Rocketseat</a>'s events and, subsequently, their Explorer basic course;</li>
+  <li>I began studying HTML and CSS seriously in 2022, through <a href="https://www.rocketseat.com.br">Rocketseat</a>'s events and, subsequently, their Explorer basic course;</li>
   <li>By the end of 2022, I secured my first job as a Front-End Developer in a marketing agency.</li>
 </ul>
 
