@@ -11,7 +11,7 @@
 </ul>
 </p>
 
-<p>
+<p align="left">
 <h3>Currently working on... 💪</h3>
 <ul>
   <li>Improving my JavaScript skills;</li>
@@ -20,14 +20,14 @@
 </ul>
 </p>
 
-<p>
+<p align="left">
   <h3>Certifications 🏅</h3>
   <ul>
     <li><a href="https://www.coursera.org/account/accomplishments/certificate/K9MS9UMFVCET">UX/UI: Fundamentos para o design de interface</a></li>
   </ul>
 </p>
 
-<p>
+<p align="left">
 <h3>Contact 💌</h3>
 </p>
 
