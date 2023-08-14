@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<div align="right" display="flex" align-items="center"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px"></div>
 
 <p align="left"> 
 <h2>About me ✨</h2>
