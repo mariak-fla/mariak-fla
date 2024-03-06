@@ -1,4 +1,4 @@
-<h2>About me ✨</h2>
+<h2>Hello! I'm Maria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" ></h2>
 <ul>
   <li>The first time I became interested in HTML and CSS was designing simple websites as a kid;</li>
   <li>In 2021, I obtained my Bachelor's degree in Graphic Design;</li>
@@ -9,7 +9,7 @@
 
 <h3>Currently working on... 💪</h3>
 <ul>
-  <li>Improving my JavaScript skills;</li>
+  <li>Improving my front-end development skills;</li>
   <li>Learning and experimenting with React.js & React Native;</li>
   <li>Growing as a developer and designer! 🌱</li>
 </ul>
