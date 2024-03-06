@@ -17,6 +17,8 @@
   <h3>Certifications 🏅</h3>
   <ul>
     <li><a href="https://www.coursera.org/account/accomplishments/certificate/K9MS9UMFVCET">UX/UI: Fundamentos para o design de interface</a></li>
+    <li><a href="https://app.rocketseat.com.br/certificates/347bcd8b-b054-4ed4-ad06-0c0b92fc2ccf">AI for Devs</a></li>
+    <li><a href="https://www.dio.me/certificate/A804E9E6/share">Version Control with Git and Github</a></li>
   </ul>
 
 <h3>Contact 💌</h3>
